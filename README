@@ -1,0 +1,3 @@
+a rails template with users and a simple login system.
+
+rails new foo -m template.rb
