@@ -1,4 +1,5 @@
 gem   'haml'
+gem 'bcrypt-ruby', '~> 3.0.0'
 run   'rm public/index.html'
 
 route "match '/*page' => 'pages#show'"
